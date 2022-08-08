@@ -1,0 +1,8 @@
+No additional libraries were installed as the project was run on the project workspace.
+
+The following libraries were used along with the provided helper files:
+
+Tensorflow
+Jypyter
+Numpy
+Matplotlib
